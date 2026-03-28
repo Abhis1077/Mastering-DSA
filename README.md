@@ -27,6 +27,7 @@ This project is licensed under the MIT License.
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Abhis1077/Mastering-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhis1077/Mastering-DSA/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -39,5 +40,6 @@ This project is licensed under the MIT License.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Abhis1077/Mastering-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhis1077/Mastering-DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

@@ -27,11 +27,13 @@ This project is licensed under the MIT License.
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Abhis1077/Mastering-DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Abhis1077/Mastering-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhis1077/Mastering-DSA/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Abhis1077/Mastering-DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Abhis1077/Mastering-DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -42,4 +44,8 @@ This project is licensed under the MIT License.
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Abhis1077/Mastering-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhis1077/Mastering-DSA/tree/master/0234-palindrome-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Abhis1077/Mastering-DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

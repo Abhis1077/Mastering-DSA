@@ -8,7 +8,7 @@ class Solution {
 
         Queue<int[]> q = new LinkedList<>();
 
-        boolean[][] vis = new boolean[rows][cols];
+        
 
         int freshOranges = 0;
 
@@ -37,8 +37,8 @@ class Solution {
                     int nextcol = c + dir[1];
 
                     if (nextrow >= 0 && nextrow < rows && nextcol >= 0 && nextcol < cols) {
-                        if (grid[nextrow][nextcol] == 1 && !vis[nextrow][nextcol]) {
-                            vis[nextrow][nextcol] = true;
+                        if (grid[nextrow][nextcol] == 1) {
+                            
                             grid[nextrow][nextcol] = 2;
                             q.add(new int[] { nextrow, nextcol });
                             freshOranges--;

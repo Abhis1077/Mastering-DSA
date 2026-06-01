@@ -76,4 +76,16 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Abhis1077/Mastering-DSA/tree/master/0572-subtree-of-another-tree) |
+## Array
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Abhis1077/Mastering-DSA/tree/master/0994-rotting-oranges) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Abhis1077/Mastering-DSA/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Abhis1077/Mastering-DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->

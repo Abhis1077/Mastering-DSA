@@ -61,6 +61,7 @@ This project is licensed under the MIT License.
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Abhis1077/Mastering-DSA/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhis1077/Mastering-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Abhis1077/Mastering-DSA/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -83,9 +84,18 @@ This project is licensed under the MIT License.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Abhis1077/Mastering-DSA/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/Abhis1077/Mastering-DSA/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Abhis1077/Mastering-DSA/tree/master/0994-rotting-oranges) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Abhis1077/Mastering-DSA/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Abhis1077/Mastering-DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->

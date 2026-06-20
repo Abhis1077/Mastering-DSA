@@ -22,14 +22,14 @@ class Solution {
                 int[] curr = q.poll();
 
                 int u = curr[0];
-                int wt  = curr[1];
+                int cost  = curr[1];
 
                 if(!adj.containsKey(u)){
                     continue;
                 }
                 for(int[] neigh : adj.get(u)){
                     int v = neigh[0];
-                    int cost = neigh[1];
+                    int wt = neigh[1];
                     if(cost + wt < dist[v]){
                         dist[v] = cost + wt;
                         q.offer(new int[]{v, dist[v]});

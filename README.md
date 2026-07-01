@@ -66,6 +66,7 @@ This project is licensed under the MIT License.
 | [0572-subtree-of-another-tree](https://github.com/Abhis1077/Mastering-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhis1077/Mastering-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Abhis1077/Mastering-DSA/tree/master/0802-find-eventual-safe-states) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Abhis1077/Mastering-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
 | ------- |
@@ -90,6 +91,7 @@ This project is licensed under the MIT License.
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhis1077/Mastering-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Abhis1077/Mastering-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Abhis1077/Mastering-DSA/tree/master/0994-rotting-oranges) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Abhis1077/Mastering-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -100,6 +102,7 @@ This project is licensed under the MIT License.
 | [0207-course-schedule](https://github.com/Abhis1077/Mastering-DSA/tree/master/0207-course-schedule) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhis1077/Mastering-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Abhis1077/Mastering-DSA/tree/master/0802-find-eventual-safe-states) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Abhis1077/Mastering-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -117,4 +120,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhis1077/Mastering-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Abhis1077/Mastering-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->

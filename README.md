@@ -102,6 +102,7 @@ This project is licensed under the MIT License.
 | [0207-course-schedule](https://github.com/Abhis1077/Mastering-DSA/tree/master/0207-course-schedule) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhis1077/Mastering-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Abhis1077/Mastering-DSA/tree/master/0802-find-eventual-safe-states) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Abhis1077/Mastering-DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Abhis1077/Mastering-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -123,5 +124,6 @@ This project is licensed under the MIT License.
 ## Union-Find
 |  |
 | ------- |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Abhis1077/Mastering-DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Abhis1077/Mastering-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->

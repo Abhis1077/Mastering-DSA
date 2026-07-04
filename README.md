@@ -48,6 +48,7 @@ This project is licensed under the MIT License.
 | [0021-merge-two-sorted-lists](https://github.com/Abhis1077/Mastering-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Abhis1077/Mastering-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhis1077/Mastering-DSA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Abhis1077/Mastering-DSA/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ This project is licensed under the MIT License.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Abhis1077/Mastering-DSA/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhis1077/Mastering-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
 |  |
@@ -126,4 +128,12 @@ This project is licensed under the MIT License.
 | ------- |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Abhis1077/Mastering-DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Abhis1077/Mastering-DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abhis1077/Mastering-DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abhis1077/Mastering-DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

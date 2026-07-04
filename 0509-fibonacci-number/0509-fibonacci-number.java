@@ -1,6 +1,7 @@
 class Solution {
     public int fib(int n) {
 
+//bottom up approach
         if(n<=1){
             return n;
         }

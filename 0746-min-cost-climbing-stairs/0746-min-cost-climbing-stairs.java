@@ -35,7 +35,7 @@ class Solution {
 
         int prev2 = 0;
         int prev1 = 0;
-        int current = Math.min(cost[0],cost[1]);
+        int current = 0;
 
         for(int i = 2;i<=n;i++){
             current = Math.min((prev2+cost[i-2]),(prev1+cost[i-1]));

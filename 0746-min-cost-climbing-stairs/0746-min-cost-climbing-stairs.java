@@ -12,20 +12,36 @@ class Solution {
 
     //     return dp[i] = cost[i] + Math.min(one_step,two_step);
     // }
+    // public int minCostClimbingStairs(int[] cost) {
+    //     int n = cost.length;
+
+    //     int[] dp = new int[n+1];
+
+    //     dp[0] = 0;
+    //     dp[1] = 0;
+    //     dp[2] = Math.min(cost[0],cost[1]);
+
+    //     for(int i = 3;i<=n;i++){
+    //         dp[i] = Math.min((dp[i-2]+cost[i-2]),(dp[i-1]+cost[i-1]));
+    //     }
+       
+
+    //     return dp[n];
+    // }
+
+    //SPACE OPTIMISATION
     public int minCostClimbingStairs(int[] cost) {
         int n = cost.length;
 
-        int[] dp = new int[n+1];
+        int prev2 = 0;
+        int prev1 = 0;
+        int current = Math.min(cost[0],cost[1]);
 
-        dp[0] = 0;
-        dp[1] = 0;
-        dp[2] = Math.min(cost[0],cost[1]);
-
-        for(int i = 3;i<=n;i++){
-            dp[i] = Math.min((dp[i-2]+cost[i-2]),(dp[i-1]+cost[i-1]));
+        for(int i = 2;i<=n;i++){
+            current = Math.min((prev2+cost[i-2]),(prev1+cost[i-1]));
+            prev2 = prev1;
+            prev1 = current;
         }
-       
-
-        return dp[n];
+        return current;
     }
 }

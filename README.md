@@ -85,6 +85,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Abhis1077/Mastering-DSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhis1077/Mastering-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/Abhis1077/Mastering-DSA/tree/master/0994-rotting-oranges) |
 ## Breadth-First Search
@@ -117,6 +118,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abhis1077/Mastering-DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Abhis1077/Mastering-DSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Abhis1077/Mastering-DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhis1077/Mastering-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhis1077/Mastering-DSA/tree/master/0787-cheapest-flights-within-k-stops) |

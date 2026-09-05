@@ -55,6 +55,7 @@ This project is licensed under the MIT License.
 | [0141-linked-list-cycle](https://github.com/Abhis1077/Mastering-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Abhis1077/Mastering-DSA/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/Abhis1077/Mastering-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
 |  |
 | ------- |
@@ -93,6 +94,7 @@ This project is licensed under the MIT License.
 | [0213-house-robber-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhis1077/Mastering-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/Abhis1077/Mastering-DSA/tree/master/0994-rotting-oranges) |
+| [2965-find-missing-and-repeated-values](https://github.com/Abhis1077/Mastering-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -105,6 +107,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Abhis1077/Mastering-DSA/tree/master/0994-rotting-oranges) |
+| [2965-find-missing-and-repeated-values](https://github.com/Abhis1077/Mastering-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Graph Theory
 |  |
 | ------- |
@@ -146,6 +149,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abhis1077/Mastering-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Abhis1077/Mastering-DSA/tree/master/0509-fibonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Abhis1077/Mastering-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Memoization
 |  |
 | ------- |

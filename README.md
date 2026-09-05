@@ -54,6 +54,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhis1077/Mastering-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Abhis1077/Mastering-DSA/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -87,6 +88,7 @@ This project is licensed under the MIT License.
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhis1077/Mastering-DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Abhis1077/Mastering-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhis1077/Mastering-DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -153,4 +155,20 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0337-house-robber-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhis1077/Mastering-DSA/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhis1077/Mastering-DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhis1077/Mastering-DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhis1077/Mastering-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

@@ -91,6 +91,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abhis1077/Mastering-DSA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Abhis1077/Mastering-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhis1077/Mastering-DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Abhis1077/Mastering-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0213-house-robber-ii) |
@@ -178,4 +179,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhis1077/Mastering-DSA/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Abhis1077/Mastering-DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

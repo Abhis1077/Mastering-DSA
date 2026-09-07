@@ -8,8 +8,9 @@ class Solution {
             if(prices[i]<minP){
                 minP = prices[i];
             }
+            else{
              maxm = Math.max(maxm, (prices[i]-minP) );
-            
+            }
         }
 
         return maxm;

@@ -2,7 +2,6 @@ class Solution {
     public int singleNumber(int[] nums) {
         int n = nums.length;
 
-
         for(int num : nums){
             int count = 0;
             for(int num1 : nums){

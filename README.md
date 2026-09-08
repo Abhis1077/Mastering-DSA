@@ -35,6 +35,7 @@ This project is licensed under the MIT License.
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Abhis1077/Mastering-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Abhis1077/Mastering-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Abhis1077/Mastering-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -90,6 +91,7 @@ This project is licensed under the MIT License.
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Abhis1077/Mastering-DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Abhis1077/Mastering-DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Abhis1077/Mastering-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhis1077/Mastering-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |

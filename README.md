@@ -100,6 +100,7 @@ This project is licensed under the MIT License.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhis1077/Mastering-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhis1077/Mastering-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Abhis1077/Mastering-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhis1077/Mastering-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Abhis1077/Mastering-DSA/tree/master/0189-rotate-array) |
@@ -140,6 +141,7 @@ This project is licensed under the MIT License.
 | [0053-maximum-subarray](https://github.com/Abhis1077/Mastering-DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Abhis1077/Mastering-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhis1077/Mastering-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Abhis1077/Mastering-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0337-house-robber-iii) |
@@ -197,4 +199,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abhis1077/Mastering-DSA/tree/master/0136-single-number) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->

@@ -108,6 +108,7 @@ This project is licensed under the MIT License.
 | [0189-rotate-array](https://github.com/Abhis1077/Mastering-DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Abhis1077/Mastering-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0213-house-robber-ii) |
+| [0274-h-index](https://github.com/Abhis1077/Mastering-DSA/tree/master/0274-h-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhis1077/Mastering-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/Abhis1077/Mastering-DSA/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhis1077/Mastering-DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -191,6 +192,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abhis1077/Mastering-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhis1077/Mastering-DSA/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Abhis1077/Mastering-DSA/tree/master/0274-h-index) |
 ## Counting
 |  |
 | ------- |
@@ -209,4 +211,8 @@ This project is licensed under the MIT License.
 | [0045-jump-game-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Abhis1077/Mastering-DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Abhis1077/Mastering-DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

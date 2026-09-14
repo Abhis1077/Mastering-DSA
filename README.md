@@ -60,6 +60,7 @@ This project is licensed under the MIT License.
 | [0141-linked-list-cycle](https://github.com/Abhis1077/Mastering-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Abhis1077/Mastering-DSA/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abhis1077/Mastering-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhis1077/Mastering-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
 |  |
@@ -109,6 +110,7 @@ This project is licensed under the MIT License.
 | [0198-house-robber](https://github.com/Abhis1077/Mastering-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0213-house-robber-ii) |
 | [0274-h-index](https://github.com/Abhis1077/Mastering-DSA/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abhis1077/Mastering-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhis1077/Mastering-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/Abhis1077/Mastering-DSA/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhis1077/Mastering-DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -171,6 +173,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abhis1077/Mastering-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhis1077/Mastering-DSA/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abhis1077/Mastering-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/Abhis1077/Mastering-DSA/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhis1077/Mastering-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Memoization
@@ -215,4 +218,12 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Abhis1077/Mastering-DSA/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abhis1077/Mastering-DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Abhis1077/Mastering-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

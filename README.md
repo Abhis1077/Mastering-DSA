@@ -37,6 +37,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhis1077/Mastering-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhis1077/Mastering-DSA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhis1077/Mastering-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhis1077/Mastering-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Abhis1077/Mastering-DSA/tree/master/0141-linked-list-cycle) |
@@ -81,6 +82,7 @@ This project is licensed under the MIT License.
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhis1077/Mastering-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Abhis1077/Mastering-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -235,4 +237,16 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Abhis1077/Mastering-DSA/tree/master/0238-product-of-array-except-self) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhis1077/Mastering-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhis1077/Mastering-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhis1077/Mastering-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

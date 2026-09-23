@@ -5,10 +5,9 @@ class Solution {
 
         for(int i = 0 ; i <n2 ; i++){
             if(idx>=n1) return false;
-            if(haystack.charAt(idx) != needle.charAt(i)){
+            if(haystack.charAt(idx++) != needle.charAt(i)){
                 return false;
             }
-            idx++;
         }
         return true;
     }

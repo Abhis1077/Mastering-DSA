@@ -50,8 +50,6 @@ class Solution {
 
         int[] lpsArr = new int[n];
 
-        Arrays.fill(lpsArr,0);
-
         while(suf < n){
             if(str.charAt(pre) == str.charAt(suf)){
                 lpsArr[suf] = pre+1;

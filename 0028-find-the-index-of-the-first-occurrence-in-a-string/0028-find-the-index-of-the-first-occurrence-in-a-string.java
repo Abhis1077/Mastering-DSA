@@ -26,19 +26,84 @@ class Solution {
     //     return -1;
     // }
 
+    // SUBSTRING APPROACH
+    // public int strStr(String haystack, String needle) {
+    //     int n1 = haystack.length();
+    //     int n2 = needle.length();
+
+
+    //     if(n2>n1) return -1;
+
+    //     for(int i = 0 ; i <=n1-n2;i++){
+    //         if(haystack.substring(i,i+n2).equals(needle)){
+    //             return i;
+    //         }
+    //     }
+    //     return -1;
+    // }
+
+    public int[] LPS(String str){
+
+        int suf = 1;
+        int pre = 0;
+        int n = str.length();
+
+        int[] lpsArr = new int[n];
+
+        Arrays.fill(lpsArr,0);
+
+        while(suf < n){
+            if(str.charAt(pre) == str.charAt(suf)){
+                lpsArr[suf] = pre+1;
+                pre++;
+                suf++;
+                
+            }
+            else{
+                if(pre == 0 ){
+                    lpsArr[suf] = 0;
+                    suf++;
+                }
+                else{
+                    pre = lpsArr[pre-1];
+                }
+            }
+        }
+
+        return lpsArr;
+    }
+
 
     public int strStr(String haystack, String needle) {
         int n1 = haystack.length();
         int n2 = needle.length();
 
+        int[] lpsArr = new int[n2];
 
-        if(n2>n1) return -1;
+        lpsArr = LPS(needle);
 
-        for(int i = 0 ; i <=n1-n2;i++){
-            if(haystack.substring(i,i+n2).equals(needle)){
-                return i;
+        int first = 0;
+        int sec = 0;
+
+        while(first < n1 && sec < n2){
+            if(haystack.charAt(first) == needle.charAt(sec)){
+                first++;
+                sec++;
+                
+            }
+            else{
+                if(sec == 0){
+                    first++;
+                }
+                else{
+                    sec = lpsArr[sec-1];
+                }
             }
         }
+        if(sec == n2){
+            return first-sec;
+        }
+        else
         return -1;
     }
 }

@@ -6,7 +6,7 @@ class Solution {
             if(s.charAt(i) != ' '){
                 curr++;
             }
-            else if (s.charAt(i) == ' ' && curr != 0){
+            else if (curr != 0){
                 break;
             }
         }

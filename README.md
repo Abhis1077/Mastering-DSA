@@ -58,6 +58,7 @@ This project is licensed under the MIT License.
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Abhis1077/Mastering-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abhis1077/Mastering-DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Abhis1077/Mastering-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -83,6 +84,7 @@ This project is licensed under the MIT License.
 ## String Matching
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Abhis1077/Mastering-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abhis1077/Mastering-DSA/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhis1077/Mastering-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Abhis1077/Mastering-DSA/tree/master/0572-subtree-of-another-tree) |
@@ -178,6 +180,7 @@ This project is licensed under the MIT License.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Abhis1077/Mastering-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abhis1077/Mastering-DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Abhis1077/Mastering-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhis1077/Mastering-DSA/tree/master/0189-rotate-array) |

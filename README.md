@@ -42,6 +42,7 @@ This project is licensed under the MIT License.
 | [0088-merge-sorted-array](https://github.com/Abhis1077/Mastering-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Abhis1077/Mastering-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Abhis1077/Mastering-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Abhis1077/Mastering-DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Abhis1077/Mastering-DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -89,6 +90,7 @@ This project is licensed under the MIT License.
 | [0014-longest-common-prefix](https://github.com/Abhis1077/Mastering-DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhis1077/Mastering-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Abhis1077/Mastering-DSA/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/Abhis1077/Mastering-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Abhis1077/Mastering-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |

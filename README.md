@@ -85,6 +85,7 @@ This project is licensed under the MIT License.
 ## String Matching
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Abhis1077/Mastering-DSA/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Abhis1077/Mastering-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abhis1077/Mastering-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Abhis1077/Mastering-DSA/tree/master/0014-longest-common-prefix) |

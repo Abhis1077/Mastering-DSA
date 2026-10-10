@@ -60,6 +60,7 @@ This project is licensed under the MIT License.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abhis1077/Mastering-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Abhis1077/Mastering-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abhis1077/Mastering-DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Abhis1077/Mastering-DSA/tree/master/0141-linked-list-cycle) |
@@ -86,6 +87,7 @@ This project is licensed under the MIT License.
 ## String Matching
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abhis1077/Mastering-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Abhis1077/Mastering-DSA/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Abhis1077/Mastering-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abhis1077/Mastering-DSA/tree/master/0013-roman-to-integer) |
@@ -276,5 +278,6 @@ This project is licensed under the MIT License.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abhis1077/Mastering-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhis1077/Mastering-DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

@@ -68,6 +68,7 @@ This project is licensed under the MIT License.
 | [0141-linked-list-cycle](https://github.com/Abhis1077/Mastering-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Abhis1077/Mastering-DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Abhis1077/Mastering-DSA/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abhis1077/Mastering-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Abhis1077/Mastering-DSA/tree/master/0383-ransom-note) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhis1077/Mastering-DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -100,6 +101,7 @@ This project is licensed under the MIT License.
 | [0076-minimum-window-substring](https://github.com/Abhis1077/Mastering-DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Abhis1077/Mastering-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhis1077/Mastering-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Abhis1077/Mastering-DSA/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Abhis1077/Mastering-DSA/tree/master/0383-ransom-note) |
 | [0572-subtree-of-another-tree](https://github.com/Abhis1077/Mastering-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree

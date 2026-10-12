@@ -134,6 +134,7 @@ This project is licensed under the MIT License.
 | [0213-house-robber-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Abhis1077/Mastering-DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Abhis1077/Mastering-DSA/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/Abhis1077/Mastering-DSA/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abhis1077/Mastering-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhis1077/Mastering-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/Abhis1077/Mastering-DSA/tree/master/0994-rotting-oranges) |
@@ -150,6 +151,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Abhis1077/Mastering-DSA/tree/master/0036-valid-sudoku) |
+| [0289-game-of-life](https://github.com/Abhis1077/Mastering-DSA/tree/master/0289-game-of-life) |
 | [0994-rotting-oranges](https://github.com/Abhis1077/Mastering-DSA/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhis1077/Mastering-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Graph Theory
@@ -286,4 +288,8 @@ This project is licensed under the MIT License.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhis1077/Mastering-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Abhis1077/Mastering-DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhis1077/Mastering-DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/Abhis1077/Mastering-DSA/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->

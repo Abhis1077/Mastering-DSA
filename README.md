@@ -47,6 +47,7 @@ This project is licensed under the MIT License.
 | [0151-reverse-words-in-a-string](https://github.com/Abhis1077/Mastering-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Abhis1077/Mastering-DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Abhis1077/Mastering-DSA/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Abhis1077/Mastering-DSA/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -105,6 +106,7 @@ This project is licensed under the MIT License.
 | [0151-reverse-words-in-a-string](https://github.com/Abhis1077/Mastering-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Abhis1077/Mastering-DSA/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Abhis1077/Mastering-DSA/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Abhis1077/Mastering-DSA/tree/master/0392-is-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/Abhis1077/Mastering-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -188,6 +190,7 @@ This project is licensed under the MIT License.
 | [0198-house-robber](https://github.com/Abhis1077/Mastering-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/Abhis1077/Mastering-DSA/tree/master/0337-house-robber-iii) |
+| [0392-is-subsequence](https://github.com/Abhis1077/Mastering-DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Abhis1077/Mastering-DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhis1077/Mastering-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhis1077/Mastering-DSA/tree/master/0787-cheapest-flights-within-k-stops) |

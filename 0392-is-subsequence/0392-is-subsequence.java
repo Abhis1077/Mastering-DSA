@@ -24,10 +24,6 @@ class Solution {
             }
          }
 
-         if(sc == s.length()){
-            return true;
-         }
-
         return false;
     }
 }

@@ -3,6 +3,8 @@ class Solution {
          int sc = 0;
          int tc = 0;
 
+         if(s.isEmpty()) return true;
+
         //  if(t.length() < s.length()){
         //     return false;
         //  }
@@ -29,6 +31,7 @@ class Solution {
         while(sc < s.length() && tc < t.length()){
             if(s.charAt(sc) == t.charAt(tc)){
                 sc++;
+                if(sc == s.length()) return true;
             }
             tc++;
         }
